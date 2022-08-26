@@ -7,6 +7,4 @@ Kaggle dataset link:
 https://www.kaggle.com/zaurbegiev/my-dataset
 
 
-For uncompressed video screencast:
-https://drive.google.com/drive/folders/1QuNDAXSIxhL7WppS-mkF-QyhLLIVkFUb?usp=sharing
 
