@@ -6,5 +6,7 @@ Several banks rely on credit scores for determining if loans can be sanctioned t
 Kaggle dataset link:
 https://www.kaggle.com/zaurbegiev/my-dataset
 
+Survey paper: https://drive.google.com/file/d/1DIt2PxoSfZJzrOafNPHq0aH4Su_oWjvz/view?usp=sharing
+
 
 
